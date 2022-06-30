@@ -1,0 +1,7 @@
+diff a/hello.txt b/hello.txt	(rejected hunks)
+@@ -3,3 +3,5 @@
+ hello world!! 
+ hello world!! hot-fix
+ hello world!!
++branch2
++
